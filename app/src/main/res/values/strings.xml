@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">GPIODemo</string>
+    <string name="physicalBtn" translatable="false">Physical Button Control</string>
+    <string name="physicalBtnCtrl" translatable="false">Control</string>
+    <string name="green" translatable="false">green</string>
+    <string name="yellow" translatable="false">yellow</string>
+    <string name="black" translatable="false">black</string>
+    <string name="clean" translatable="false">clean</string>
+    <string name="write" translatable="false">Write</string>
+    <string name="moduleCfg" translatable="false">Scanner setting</string>
+    <string name="Setgpio0_15" translatable="false">Setgpio0_15</string>
+    <string name="Setgpio0_29" translatable="false">Setgpio0_29</string>
+    <string name="Setuart1_01" translatable="false">Uart Control</string>
+    <string name="Readgpio0_30" translatable="false">Readgpio0_30</string>
+    <string name="Readgpio0_31" translatable="false">Readgpio0_31</string>
+    <string name="setGpio" translatable="false">SetGpio</string>
+    <string name="readGpio" translatable="false">ReadGpio</string>
+</resources>

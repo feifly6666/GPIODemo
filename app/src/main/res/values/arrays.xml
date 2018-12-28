@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="springarr">
+        <item></item>
+        <item>bar scan on</item>
+        <item>bar scan power on</item>
+        <item>bar scan power off</item>
+        <item>bar scan trg on</item>
+        <item>bar scan trg off</item>
+    </string-array>
+</resources>
